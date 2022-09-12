@@ -1,8 +1,10 @@
 
-Completed 6 programs:
+Completed 8 programs:
 Cube ,
 Perfect number,
 Username valid or not ,
 Factorial,
 Reverse number ,
-Arithmetic operators.
+Arithmetic operators,
+composite number,
+no of vowels.
