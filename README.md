@@ -5,6 +5,7 @@ Reverse Number
 Factorial
 Perfect Number
 Decimal Square Cube
+.
 12/9/22
 composite no
 no.of.vowels
@@ -13,6 +14,7 @@ reverse an array
 binary search
 multiplication matrix
 mean median mode
+.
 13/9/22
 add 2no using pointer
 max num b/w 2no using pointer
