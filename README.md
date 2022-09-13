@@ -1,4 +1,4 @@
-# c-program- 
+# c-program- completed 19 programs
 10/9/22
 Calculate Arithmetic Operations, 
 Reverse Number,
@@ -21,3 +21,5 @@ max num b/w 2no using pointer,
 print element in pointer,
 length of the string using pointer,
 largest number using dynamic memory allocation,
+swapping of 3 numbers,
+factorial in pointers
