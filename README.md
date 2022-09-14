@@ -23,3 +23,9 @@ length of the string using pointer,
 largest number using dynamic memory allocation,
 swapping of 3 numbers,
 factorial in pointers
+
+14/9/22
+Book details using structures
+Student details using structures 
+Information of students (roll,marks..)
+
